@@ -1,0 +1,44 @@
+body {
+	    font-family: 'Roboto', sans-serif;font-size: 14px;    line-height: 1.4em;    color: #242424;
+}
+a:focus {
+	outline:1px dotted invert
+}
+hr	{
+border:0 #ccc solid;
+border-top-width:1px;clear:both;height:0
+}
+h1,h2,h3,h5,h6,h4 {line-height:100%;}
+h1{
+    font-size: 36px;
+    font-weight: 300;
+    
+}
+h2{
+		font-size:30px;margin:30px 0px 20px;
+
+}
+h3{
+			font-size:24px;margin:20px 0px 10px;
+}
+h4{
+	font-size:16px
+}
+h5{
+	font-size:17px
+}
+h6{font-size:15px; color:#3C70D6;
+}
+ol{
+	list-style:decimal
+}
+
+ul{
+	list-style:square
+}
+li{
+	margin-left:30px
+}
+p,dl,hr,h1,h2,h3,h4,h5,h6,ol,ul,pre,address,fieldset{
+	margin-bottom:10px
+	}
